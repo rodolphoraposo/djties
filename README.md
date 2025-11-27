@@ -75,7 +75,7 @@ Acesse o card virtual do DJ Tiés aqui: Visite e contrate este excelente profiss
 ## 📬 Conecte-se comigo  
 
 <p>
-  <a href="https://www.linkedin.com/in/raposoofc" target="_blank">
+  <a href="https://www.linkedin.com/in/rodolphoraposo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo"/>
   </a>&nbsp;
   
